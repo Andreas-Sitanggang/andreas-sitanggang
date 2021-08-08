@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andreas Sitanggang</h1>
 <h3 align="center">A passionate Android developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andreas-sitanggang&label=Profile%20views&color=0e75b6&style=flat" alt="andreas-sitanggang" /> </p>
-
-<p align="left"> <a href="https://twitter.com/andreassstg" target="blank"><img src="https://img.shields.io/twitter/follow/andreassstg?logo=twitter&style=for-the-badge" alt="andreassstg" /></a> </p>
 
 - 🌱 I’m currently learning **Android Development**
 
