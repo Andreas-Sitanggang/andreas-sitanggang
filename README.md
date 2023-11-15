@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andreas Sitanggang</h1>
-<h3 align="center">A passionate Android developer learner from Indonesia</h3>
+<h3 align="center">A passionate Backend developer learner from Indonesia</h3>
 
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Backend Software Development**
 
 - 📫 How to reach me **andreas.stngg@gmail.com**
 
